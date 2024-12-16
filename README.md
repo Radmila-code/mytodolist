@@ -3,7 +3,7 @@
 <h3 align="center">Front-end developer, freelancer and student at the CanSheCode programming school.</h3>
 <br>
 
-<img src="Title_photo.jpg" height="100"/>
+<img src="https://vscode.dev/github/Radmila-code/mytodolist/blob/main/src/Title_photo.jpg" height="100" alt="Title photo" />
 
 <h2 align="center">Application name: "My to-do list!"</h2>
 <p>This application was created to organize and properly plan your time.</p>
