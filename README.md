@@ -1,3 +1,24 @@
+<h1 align="center">Hi there, I'm <a href="https://radmila-code.glitch.me" target="_blank">Radmila</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Front-end developer, freelancer and student at the CanSheCode programming school.</h3>
+<br>
+
+<h2 align="center">Application name: "My to-do list!"</h2>
+<p>This application was created to organize and properly plan your time.</p>
+<p>With its help, you can learn to fulfill all your daily goals and quickly reach new milestones.</p>  
+<p>This application was created using the React.js library, as well as CSS3.</p> 
+
+<br>
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
