@@ -3,6 +3,8 @@
 <h3 align="center">Front-end developer, freelancer and student at the CanSheCode programming school.</h3>
 <br>
 
+<img src="Title_photo.jpg" height="100"/>
+
 <h2 align="center">Application name: "My to-do list!"</h2>
 <p>This application was created to organize and properly plan your time.</p>
 <p>With its help, you can learn to fulfill all your daily goals and quickly reach new milestones.</p>  
