@@ -38,8 +38,7 @@ export class ToDoList extends Component {
 
     render() {
         return(
-           <div>
-                <form onSubmit={this.onFormSubmit}>
+            <form onSubmit={this.onFormSubmit}>
                     <div className="container">
                         <input type="text" 
                         placeholder="To-do list for today"
@@ -60,8 +59,7 @@ export class ToDoList extends Component {
                     <div className="container">
                         <button onClick={() => this.deleteItem()} className="btn delete">Delete</button>
                     </div>
-                </form>
-           </div>
+            </form>
         )
     }
 }
